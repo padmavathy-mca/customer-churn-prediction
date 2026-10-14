@@ -1,0 +1,6 @@
+{
+  "name": "Telco Customer Churn Prediction Studio",
+  "description": "Artificial Neural Network (ANN) churn prediction system with modular Python backend and Streamlit frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
